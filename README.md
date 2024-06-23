@@ -1,6 +1,6 @@
 # iQuran
 
-![thumbnail](src/assets/985shots_so.png)
+
 
 Quran-React is a web application built with React.js that allows users to read and listen to the Quran. The application provides features such as viewing Arabic Ayahs, Surahs, and Juz with Indonesian translations and Tafsir from Kemenag.
 
